@@ -8,7 +8,7 @@
 Skip this step if Homestead was installed before
 
 ### Download Homestead
-Download [Laravel Homestead](https://drive.google.com/file/d/1h7-YODTvYQ7U7dFc12q1MVsUTZd9C3oc/view?usp=sharing) and unzip **laravel-homestead.zip**
+Download [Laravel Homestead](https://drive.google.com/file/d/1zGZuWjPhhjqoKHF3DkRkIG-jxazlpPlB/view) and unzip **laravel-homestead.zip**
 ```
     --laravel-homestead
         |--.ssh
