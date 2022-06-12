@@ -1,0 +1,10 @@
+.item_notify{
+    max-height:370px; 
+    overflow-y:scroll; 
+    overflow-x:hidden;
+}
+.check-read{
+    font-size: 15px;
+    color: royalblue;
+    float: right
+}
